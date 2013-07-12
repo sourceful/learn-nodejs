@@ -19,7 +19,7 @@ cd node-samples
 npm install
 ```
 
-Then run your app.
+Then run the example apps.
 
 ```bash
 $ node modules/app.js
