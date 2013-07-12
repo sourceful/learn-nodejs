@@ -9,14 +9,20 @@ Simple NodeJS Application Examples
 Install [Node.JS](http://nodejs.org/) from their site, or [use the source](http://howtonode.org/how-to-install-nodejs) if you are daring enough.
 
 ```bash
-$ git clone https://github.com/ponyfoo/learn-nodejs.git "my-app"
+$ git clone https://github.com/ponyfoo/learn-nodejs.git "node-samples"
+```
+
+Some of the examples need external `npm` modules to be installed, just a simple command.
+
+```bash
+cd node-samples
+npm install
 ```
 
 Then run your app.
 
 ```bash
-$ cd my-app
-$ node app.js
+$ node modules/app.js
 ```
 
 Woo!
