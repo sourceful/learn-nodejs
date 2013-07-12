@@ -15,7 +15,7 @@ $ git clone https://github.com/ponyfoo/learn-nodejs.git "my-app"
 Then run your app.
 
 ```bash
-$ cd my-app
+$ cd my-app/modules
 $ node app.js
 ```
 
