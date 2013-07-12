@@ -1,0 +1,18 @@
+{
+  "name": "learn-nodejs",
+  "description": "Simple NodeJS Application Examples",
+  "homepage": "https://github.com/ponyfoo/learn-nodejs",
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "nicolasbevacqua@gmail.com",
+    "url": "http://www.ponyfoo.com"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ponyfoo/learn-nodejs.gitt"
+  },
+  "dependencies": {
+    "async": "~0.2.9"
+  }
+}
