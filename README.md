@@ -12,11 +12,17 @@ Install [Node.JS](http://nodejs.org/) from their site, or [use the source](http:
 $ git clone https://github.com/ponyfoo/learn-nodejs.git "node-samples"
 ```
 
+Some of the examples need external `npm` modules to be installed, just a simple command.
+
+```bash
+cd node-samples
+npm install
+```
+
 Then run your app.
 
 ```bash
-$ cd node-samples/modules
-$ node app.js
+$ node modules/app.js
 ```
 
 Woo!
