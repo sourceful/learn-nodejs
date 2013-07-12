@@ -13,6 +13,7 @@
     "url": "https://github.com/ponyfoo/learn-nodejs.gitt"
   },
   "dependencies": {
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "express": "~3.3.4"
   }
 }
