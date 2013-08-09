@@ -1,4 +1,4 @@
-Learn NodeJS
+[Learn NodeJS](blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps "Teach Yourself NodeJS in 10 Steps)
 ============
 
 Simple NodeJS Application Examples
