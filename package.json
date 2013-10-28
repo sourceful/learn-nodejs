@@ -10,7 +10,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ponyfoo/learn-nodejs.gitt"
+    "url": "https://github.com/ponyfoo/learn-nodejs.git"
   },
   "dependencies": {
     "async": "~0.2.9",
